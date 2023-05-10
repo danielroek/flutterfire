@@ -5,7 +5,7 @@ repository: https://github.com/firebase/flutterfire/tree/master/packages/firebas
 version: 5.4.0
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.18.0 <4.0.0'
   flutter: '>=1.20.0'
 
 dependencies:
@@ -17,7 +17,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   http_parser: ^4.0.0
-  intl: ^0.17.0
+  intl: ^0.18.0
   js: ^0.6.3
   meta: ^1.8.0
 
